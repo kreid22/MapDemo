@@ -1,0 +1,537 @@
+{
+  "Files": [
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MapDemo.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MapDemo.xlflgion79.bundle.scp.css"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\layers\\Alberta_9.js",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\layers\\Alberta_9.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\layers\\BritishColumbia_10.js",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\layers\\BritishColumbia_10.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\layers\\Manitoba_7.js",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\layers\\Manitoba_7.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\layers\\NewBrunswick_5.js",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\layers\\NewBrunswick_5.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\layers\\NewfoundlandandLabrador_1.js",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\layers\\NewfoundlandandLabrador_1.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\layers\\NovaScotia_4.js",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\layers\\NovaScotia_4.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\layers\\Ontario_2.js",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\layers\\Ontario_2.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\layers\\PrinceEdwardIsland_6.js",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\layers\\PrinceEdwardIsland_6.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\layers\\Quebec_3.js",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\layers\\Quebec_3.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\layers\\Saskatchewan_8.js",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\layers\\Saskatchewan_8.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\layers\\layers.js",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\layers\\layers.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\map1.html",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\map1.html"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\resources\\Autolinker.min.js",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\resources\\Autolinker.min.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\resources\\Autolinker.min.js.map",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\resources\\Autolinker.min.js.map"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\resources\\OSMBuildings-OL3.js",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\resources\\OSMBuildings-OL3.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\resources\\filter.css",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\resources\\filter.css"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\resources\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\resources\\fontawesome-all.min.css"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\resources\\functions.js",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\resources\\functions.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\resources\\horsey.min.css",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\resources\\horsey.min.css"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\resources\\horsey.min.js",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\resources\\horsey.min.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\resources\\marker.png",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\resources\\marker.png"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\resources\\materialize.min.css",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\resources\\materialize.min.css"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\resources\\materialize.min.js",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\resources\\materialize.min.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\resources\\measure-control.png",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\resources\\measure-control.png"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\resources\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\resources\\nouislider.min.css"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\resources\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\resources\\nouislider.min.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\resources\\ol-geocoder.js",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\resources\\ol-geocoder.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\resources\\ol-geocoder.min.css",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\resources\\ol-geocoder.min.css"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\resources\\ol-layerswitcher.css",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\resources\\ol-layerswitcher.css"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\resources\\ol-layerswitcher.js",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\resources\\ol-layerswitcher.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\resources\\ol.css",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\resources\\ol.css"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\resources\\ol.css.map",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\resources\\ol.css.map"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\resources\\ol.js",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\resources\\ol.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\resources\\ol.js.map",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\resources\\ol.js.map"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\resources\\ol3-search-layer.js",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\resources\\ol3-search-layer.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\resources\\ol3-search-layer.min.css",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\resources\\ol3-search-layer.min.css"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\resources\\polyfills.js",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\resources\\polyfills.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\resources\\proj4.js",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\resources\\proj4.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\resources\\qgis2web.css",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\resources\\qgis2web.css"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\resources\\qgis2web.js",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\resources\\qgis2web.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\resources\\qgis2web_expressions.js",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\resources\\qgis2web_expressions.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\resources\\tailDT.css",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\resources\\tailDT.css"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\styles\\Alberta_9_style.js",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\styles\\Alberta_9_style.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\styles\\BritishColumbia_10_style.js",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\styles\\BritishColumbia_10_style.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\styles\\Manitoba_7_style.js",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\styles\\Manitoba_7_style.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\styles\\NewBrunswick_5_style.js",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\styles\\NewBrunswick_5_style.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\styles\\NewfoundlandandLabrador_1_style.js",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\styles\\NewfoundlandandLabrador_1_style.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\styles\\NovaScotia_4_style.js",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\styles\\NovaScotia_4_style.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\styles\\Ontario_2_style.js",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\styles\\Ontario_2_style.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\styles\\PrinceEdwardIsland_6_style.js",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\styles\\PrinceEdwardIsland_6_style.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\styles\\Quebec_3_style.js",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\styles\\Quebec_3_style.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\styles\\Saskatchewan_8_style.js",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\styles\\Saskatchewan_8_style.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\styles\\legend\\Alberta_9.png",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\styles\\legend\\Alberta_9.png"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\styles\\legend\\BritishColumbia_10.png",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\styles\\legend\\BritishColumbia_10.png"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\styles\\legend\\Manitoba_7.png",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\styles\\legend\\Manitoba_7.png"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\styles\\legend\\NewBrunswick_5.png",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\styles\\legend\\NewBrunswick_5.png"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\styles\\legend\\NewfoundlandandLabrador_1.png",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\styles\\legend\\NewfoundlandandLabrador_1.png"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\styles\\legend\\NovaScotia_4.png",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\styles\\legend\\NovaScotia_4.png"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\styles\\legend\\Ontario_2.png",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\styles\\legend\\Ontario_2.png"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\styles\\legend\\PrinceEdwardIsland_6.png",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\styles\\legend\\PrinceEdwardIsland_6.png"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\styles\\legend\\Quebec_3.png",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\styles\\legend\\Quebec_3.png"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\styles\\legend\\Saskatchewan_8.png",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\styles\\legend\\Saskatchewan_8.png"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\45CanadaGrowersMap\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\45CanadaGrowersMap\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "c:\\Users\\kelsey.reid\\source\\repos\\MapDemo\\MapDemo\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MapDemo.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MapDemo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.MapDemo.props",
+      "PackagePath": "build\\MapDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.MapDemo.props",
+      "PackagePath": "buildMultiTargeting\\MapDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.MapDemo.props",
+      "PackagePath": "buildTransitive\\MapDemo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
